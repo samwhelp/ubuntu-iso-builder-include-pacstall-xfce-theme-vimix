@@ -13,7 +13,7 @@
 | ---- | ------ |
 | [ubuntu-iso-builder-template](https://github.com/samwhelp/ubuntu-iso-builder-template) |
 | `+` |
-| [ubuntu-iso-builder-import-pacstall-xfce](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-xfce) |
+| [ubuntu-iso-builder-import-pacstall-xfce-theme-vimix](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-xfce-theme-vimix) |
 | `=` |
 | [ubuntu-iso-builder-include-pacstall-xfce-theme-vimix](https://github.com/samwhelp/ubuntu-iso-builder-include-pacstall-xfce-theme-vimix) |
 
